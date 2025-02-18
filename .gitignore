@@ -1,3 +1,8 @@
+# Media files
+*.mp3
+*.log
+*.apkg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

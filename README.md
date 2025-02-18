@@ -55,7 +55,7 @@ pip install pandas genanki requests
 
   * `--test`: Processes only the first 5 rows (for testing purposes).
   * `--verbose`: Enables detailed logging.
-  * `--no-audio`: Skips audio generation if you want to generate a deck without audio files.
+  * `--no-audio`: Skips audio generation if you want to generate a deck without audio files. (with sound, the anki deck becomes around 200MB!)
   
 - **Output**  
   The script will generate an Anki deck file named `hakka_language_deck_with_diacritics_and_sound.apkg` and store audio files in the `audio` directory. The audio files are also merged into the deck file so that the deck is self-contained.
@@ -95,6 +95,7 @@ pip install pandas genanki requests
 - **Hong Kong Hakka TTS**: [https://hkilang.github.io/TTS/](https://hkilang.github.io/TTS/)
 - **Source Code**: [https://github.com/hkilang/TTS/tree/main](https://github.com/hkilang/TTS/tree/main)
 - **TTS API**: [https://github.com/hkilang/TTS-API/tree/main](https://github.com/hkilang/TTS-API/tree/main)
+- Special thanks to https://github.com/graphemecluster for his assistance, for pointing me in the right direction, and for creating the TTS application.
 
 ## License
 
