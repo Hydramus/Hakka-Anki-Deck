@@ -2,6 +2,8 @@
 
 This repository contains a Python script that generates an Anki deck for learning **fui4 yong2 (惠陽) Hakka**. It not only converts tone numbers to diacritics with colour-coding based on the "香港客家话研究" textbook by **劉鎮發 (liu2 zin3 fat5)** but also integrates audio by utilising the new **Fui Yong Hakka TTS model**. The script calls the **Hakka TTS API** to generate audio files while handling various HTTP errors and packages them into the final Anki deck.
 
+![image](https://github.com/user-attachments/assets/72308faf-d61e-4701-9041-6bcc7a1afa10)
+
 ## Features
 
 - **Tone Diacritic Conversion**:  
@@ -76,6 +78,12 @@ pip install pandas genanki requests
   * **Audio**: Embedded audio using the `[sound:...]` markup.
 
   Audio files are included in the final `.apkg` file by specifying them in the `media_files` parameter of `genanki.Package`.
+
+## Future areas to improve
+
+* Provide option to keep numbered tones for those who prefer.
+* Add more vocabulary and phrases
+* Also open to any feedback or requests so feel free to submit issues.
 
 ## References
 
