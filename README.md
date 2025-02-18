@@ -15,7 +15,7 @@ This repository contains a Python script that generates an Anki deck for learnin
 - **Audio Integration**:  
   Downloads audio files via the **Hakka TTS API** (only if the file doesn't already exist) and embeds them in the Anki deck using `[sound:...]` markup.
 
-- **Robust Error Handling**:  
+- **Error Handling**:  
   Handles various HTTP errors (404, 500, connection issues, timeouts) when fetching audio.
 
 - **Anki Deck Packaging**:  
