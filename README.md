@@ -4,6 +4,12 @@ This repository contains a Python script that generates an Anki deck for learnin
 
 ![image](https://github.com/user-attachments/assets/72308faf-d61e-4701-9041-6bcc7a1afa10)
 
+## What is Fui Yong Hakka 惠陽客家?
+
+Fui Yong Hakka (惠陽客家) refers to the distinct group of Hakka people originating from Huiyang (惠陽) originally, a region in Guangdong Province, Southern China. Today, the Fui Yong dialect is spoken in Hong Kong, Malaysia, Singapore, Indonesia, Vietnam, Thailand, (mostly South East Asia) as well as within diaspora communities in the United Kingdom, Australia, Canada, and the United States.
+
+While Fui Yong Hakka shares similarities with other Hakka dialects, it differs notably from those spoken in Taiwan, such as Sixian (四縣) and Hailu (海陸). These differences arose from distinct historical migration periods, isolation, and interactions with neighbouring languages. Taiwan Hakka dialects were influenced by prolonged contact with Minnan (Hokkien), Indigenous Formosan languages, and Japanese colonisation, resulting in noticeable divergence in pronunciation, vocabulary, and grammar. In contrast, Fui Yong Hakka has maintained closer ties to Cantonese and regional languages in Southern China, reflecting the geographic and cultural influences specific to Guangdong and other South East Asian countries.
+
 ## Features
 
 - **Tone Diacritic Conversion**:  
