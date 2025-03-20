@@ -15,6 +15,15 @@ While Fui Yong Hakka shares similarities with other Hakka dialects, it differs n
 - **Tone Diacritic Conversion**:  
   Converts tone numbers (e.g., `ngai2`) into diacritic forms (e.g., `ngái`) using mappings inspired by the "香港客家话研究" textbook.
 
+|           | 陰平    | 陽平   | 上     | 去     | 陰入   | 陽入   |
+|-----------|---------|--------|--------|--------|--------|--------|
+| 調值      | 13*/35  | 11     | 31     | 53/55  | 31     | 53     |
+| 例字      | 參芬聲  | 蠶焚成 | 慘粉省 | 杉份盛 | 插忽析 | 雜佛石 |
+| 標調符號  | ˊ       | ̄      | ̌       | ˋ      | ̌      | ˋ      |
+| 標調數字  | 1       | 2      | 3      | 4      | 5      | 6      |
+
+Ref: p23 "香港客家话研究" with edit from myself adding 標調數字
+
 - **Colour Coding**:  
   Applies specific colours to Chinese characters based on their tones to enhance visual learning.
 
